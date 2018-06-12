@@ -1,2 +1,2 @@
 # gitbook
-これはgitbooｋのテストです。
+これは gitbooｋ のテストです。
